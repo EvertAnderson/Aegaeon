@@ -1,0 +1,86 @@
+2/05/2020 01:02:23	This log contains information about the import schema operation into project 'DataBaseMarket' on computer 'EVERT-PC' by user 'EvertAnderson'.
+2/05/2020 01:02:24	Import of database schema has started.
+2/05/2020 01:02:30	Gathering database credentials
+2/05/2020 01:02:30	Gathering database options
+2/05/2020 01:02:30	Gathering generic database scoped configuration option
+2/05/2020 01:02:30	Gathering users
+2/05/2020 01:02:30	Gathering roles
+2/05/2020 01:02:30	Gathering application roles
+2/05/2020 01:02:30	Gathering role memberships
+2/05/2020 01:02:30	Gathering filegroups
+2/05/2020 01:02:30	Gathering full-text catalogs
+2/05/2020 01:02:30	Gathering assemblies
+2/05/2020 01:02:30	Gathering certificates
+2/05/2020 01:02:30	Gathering asymmetric keys
+2/05/2020 01:02:30	Gathering symmetric keys
+2/05/2020 01:02:30	Gathering encrypted symmetric keys
+2/05/2020 01:02:30	Gathering schemas
+2/05/2020 01:02:30	Gathering XML schema collections
+2/05/2020 01:02:30	Gathering user-defined data types
+2/05/2020 01:02:30	Gathering user-defined types
+2/05/2020 01:02:30	Gathering table types
+2/05/2020 01:02:30	Gathering unique keys for table types
+2/05/2020 01:02:30	Gathering primary keys for table types
+2/05/2020 01:02:30	Gathering indexes for table types
+2/05/2020 01:02:30	Gathering check constraints for table types
+2/05/2020 01:02:30	Gathering default constraints for table types
+2/05/2020 01:02:30	Gathering partition functions
+2/05/2020 01:02:30	Gathering partition schemes
+2/05/2020 01:02:30	Gathering functions
+2/05/2020 01:02:31	Gathering encrypted functions
+2/05/2020 01:02:31	Gathering aggregates
+2/05/2020 01:02:31	Gathering procedures
+2/05/2020 01:02:31	Gathering encrypted procedures
+2/05/2020 01:02:31	Gathering tables
+2/05/2020 01:02:31	Gathering primary keys
+2/05/2020 01:02:31	Gathering unique constraints
+2/05/2020 01:02:31	Gathering foreign keys
+2/05/2020 01:02:31	Gathering default constraints
+2/05/2020 01:02:31	Gathering check constraints
+2/05/2020 01:02:31	Gathering views
+2/05/2020 01:02:31	Gathering encrypted views
+2/05/2020 01:02:31	Gathering indexes
+2/05/2020 01:02:31	Gathering statistics
+2/05/2020 01:02:31	Gathering full-text index stoplists
+2/05/2020 01:02:31	Gathering search property lists
+2/05/2020 01:02:31	Gathering search properties
+2/05/2020 01:02:31	Gathering full-text indexes
+2/05/2020 01:02:31	Gathering column store indexes
+2/05/2020 01:02:31	Gathering spatial indexes
+2/05/2020 01:02:31	Gathering XML indexes
+2/05/2020 01:02:31	Gathering Selective XML indexes
+2/05/2020 01:02:31	Gathering encrypted triggers
+2/05/2020 01:02:31	Gathering triggers
+2/05/2020 01:02:31	Gathering encrypted and clr ddl triggers
+2/05/2020 01:02:31	Gathering ddl triggers
+2/05/2020 01:02:31	Creating edge constraints
+2/05/2020 01:02:31	Gathering synonyms
+2/05/2020 01:02:31	Gathering defaults
+2/05/2020 01:02:31	Gathering data constraint uddt bindings
+2/05/2020 01:02:31	Gathering rules
+2/05/2020 01:02:31	Gathering data constraint uddt bindings
+2/05/2020 01:02:31	Gathering message types
+2/05/2020 01:02:31	Gathering queues
+2/05/2020 01:02:31	Gathering contracts
+2/05/2020 01:02:31	Gathering services
+2/05/2020 01:02:31	Gathering event notifications
+2/05/2020 01:02:31	Gathering remote service bindings
+2/05/2020 01:02:31	Gathering broker priorities
+2/05/2020 01:02:31	Gathering signatures
+2/05/2020 01:02:31	Gathering data compression options
+2/05/2020 01:02:31	Gathering sequence types
+2/05/2020 01:02:31	Gathering security policies
+2/05/2020 01:02:31	Gather column encryption keys
+2/05/2020 01:02:31	Gathering column master keys
+2/05/2020 01:02:31	Gathering external data sources
+2/05/2020 01:02:31	Gathering external file formats
+2/05/2020 01:02:31	Gathering external tables
+2/05/2020 01:02:32	Gathering extended properties
+2/05/2020 01:02:32	Gathering credentials
+2/05/2020 01:02:32	Gathering logins
+2/05/2020 01:02:32	Gathering server audits
+2/05/2020 01:02:32	Scanning project for duplicate elements
+2/05/2020 01:02:32	Finished duplicate element processing
+2/05/2020 01:02:32	Finished importing database.
+2/05/2020 01:02:32	A summary of the import was saved to the following location: C:\Archivos\Personal\Yachay 2019\Aegaeon\DataBaseMarket\Import Schema Logs\DataBaseMarket_20200502060223.log
+2/05/2020 01:02:32	Click Finish to continue...

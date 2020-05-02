@@ -1,0 +1,4 @@
+C:\Archivos\Personal\Yachay 2019\Aegaeon\Aegaeon.DAL\bin\Debug\netcoreapp3.1\Aegaeon.DAL.exe
+C:\Archivos\Personal\Yachay 2019\Aegaeon\Aegaeon.DAL\obj\Debug\netcoreapp3.1\Aegaeon.DAL.csprojAssemblyReference.cache
+C:\Archivos\Personal\Yachay 2019\Aegaeon\Aegaeon.DAL\obj\Debug\netcoreapp3.1\Aegaeon.DAL.AssemblyInfoInputs.cache
+C:\Archivos\Personal\Yachay 2019\Aegaeon\Aegaeon.DAL\obj\Debug\netcoreapp3.1\Aegaeon.DAL.AssemblyInfo.cs

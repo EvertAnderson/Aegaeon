@@ -22,5 +22,13 @@ namespace Aegaeon
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+        private static void SetupConfiguration(HostBuilderContext ctx, IConfigurationBuilder builder)
+        {
+            builder.Sources.Clear();
+
+            builder.AddJsonFile("config.json", false, true)
+                .AddEnvironmentVariables();
+        }
     }
 }
