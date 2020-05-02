@@ -1,0 +1,7 @@
+{
+    "ConnectionStrings": {
+        //"DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=_CHANGE_ME;Trusted_Connection=True;MultipleActiveResultSets=true",
+        "MarketConnection": "Server=.\\MSSQLLocalDB;Database=yachaydi_market;User Id=sa;Password=SQLSERVER2019;",
+        "LoginConnection": "Server=.\\MSSQLLocalDB;Database=yachaydi_login;User Id=sa;Password=SQLSERVER2019;"
+    }
+}
